@@ -1,0 +1,14 @@
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.exe.config
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.exe
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.pdb
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.csprojAssemblyReference.cache
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.csproj.CoreCompileInputs.cache
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.exe
+c:\users\воробьевв\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.pdb
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.exe.config
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.exe
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\bin\Debug\StrokiLessons.pdb
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.exe
+C:\Users\Viktor\source\repos\StrokiLessons\StrokiLessons\obj\Debug\StrokiLessons.pdb
